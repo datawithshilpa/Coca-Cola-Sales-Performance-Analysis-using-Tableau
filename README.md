@@ -1,5 +1,6 @@
 # Coca-Cola-Sales-Performance-Analysis-using-Tableau
 This Tableau dashboard analyzes Coca-Cola sales performance across regions, products, and channels. It highlights key metrics like revenue, profit, and sales trends, along with regional and product insights. The dashboard helps identify top-performing areas, optimize strategies, and supports data-driven business decisions.
+
 # 🥤 Coca-Cola Sales Performance Dashboard
 
 ## 📊 Overview
@@ -30,12 +31,6 @@ This project presents an interactive **sales performance dashboard** built using
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## 🧠 Key Insights
 
 * West region generates the highest revenue
@@ -49,7 +44,7 @@ This project presents an interactive **sales performance dashboard** built using
 ## 🛠️ Tools & Technologies
 
 * Tableau (Data Visualization)
-* Excel / CSV Dataset
+* CSV Dataset
 
 ---
 
@@ -57,13 +52,6 @@ This project presents an interactive **sales performance dashboard** built using
 
 * `dashboard.twbx` → Tableau packaged workbook
 * `dashboard.png` → Dashboard preview image
-* `README.md` → Project documentation
-
----
-
-## 🔗 Live Dashboard
-
-(Add your Tableau Public link here)
 
 ---
 
